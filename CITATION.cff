@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these datasets in an article, report, or analysis, please cite UKPayClear as below."
+title: "UKPayClear Open Data 2026/27: UK 60% Tax Trap, Scotland vs England Income Tax Gap, and Inside vs Outside IR35 Day Rates"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+url: "https://ukpayclear.co.uk/reports/"
+authors:
+  - name: "UKPayClear"
+    website: "https://ukpayclear.co.uk/"
+    email: "contact@ukpayclear.co.uk"
+keywords:
+  - uk-tax
+  - paye
+  - 60-percent-tax-trap
+  - scottish-income-tax
+  - ir35
+  - dividend-tax
+  - hmrc
+  - open-data
+abstract: "Three open CSV datasets modeling 2026/27 HMRC and Scottish Government tax rules: the £100,000-£125,140 Personal Allowance taper (62% England / 69.5% Scotland marginal rate), Scotland vs England tax divergence across £25k-£200k, and Inside vs Outside IR35 contractor retention from £350 to £1,000/day."
